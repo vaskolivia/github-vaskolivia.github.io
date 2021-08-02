@@ -1,0 +1,127 @@
+#kep h2{
+   position: relative;
+  font-family: "Abril Fatface" ;
+  color: #222;
+  left: -95px;
+  font-size: 32px;
+}
+#kep h1{
+  position: relative;
+  font-family: "Abril Fatface" ;
+  color: #222;
+  bottom: 45px;
+  left: -95px;
+  font-size: 64px;
+}
+
+#szoveg{
+  position: absolute;
+  top:150px;
+  left: 300px;
+}
+#png{
+  width: 1000px;
+}
+header{
+ 
+  width: 1000px;
+  position: relative;
+}
+}
+body{
+  width: 1000px;
+}
+html{
+  width: 1000px;
+  margin: auto auto;
+}
+.box1{
+  width: 600px;
+  font-family: "Josefin Sans";
+  color: #222;
+  margin: auto auto;
+  margin-top: 50px;
+  font-size: 20px;
+}
+#bq1{
+  background-color: #434040;
+  color: white;
+  font-size:40px;
+  height: 150px;
+  width: 700px;
+  margin: auto auto;
+   font-family: "Abril Fatface";
+   
+}
+
+#bq1 p{
+  position: relative;
+  bottom: 90px;
+  left: 50px;
+}
+
+#bq2{
+  background-color: #434040;
+  color: white;
+  font-size:40px;
+  height: 150px;
+  width: 700px;
+  margin: auto auto;
+   font-family: "Abril Fatface";
+}
+#bq2 p{
+  position: relative;
+  bottom: 90px;
+  left: 50px;
+}
+#bq3{
+  background-color: #434040;
+  color: white;
+  font-size:40px;
+  height: 200px;
+  width: 700px;
+  margin: auto auto;
+   font-family: "Abril Fatface";
+}
+#bq3 p{
+   position: relative;
+   bottom: 90px;
+   left: 10px; 
+}
+
+#vonal{
+  border-top: black 4px solid;
+}
+li{
+  list-style-type: square;
+}
+body h2{
+  text-transform: uppercase;
+}
+blockquote::before {
+  content: '“';
+  font-size: 80px;
+  margin-bottom: 0;
+  padding-bottom:0;
+}
+
+
+body h5{
+  margin-top: 0;
+  padding-top:0;
+}
+body h3{
+  margin-bottom: 0;
+  padding-bottom:0;
+  
+}
+.box{
+  width: 600px;
+  margin: auto auto;
+  margin-top: 50px;
+  font-family: "Merriweather";
+  color: #222;
+}
+.box p{
+  font-size:15px;
+}

@@ -1,0 +1,26 @@
+.kek{
+    width:50px;
+    height: 50px;
+    background-color: lightskyblue;
+    margin: 20px;
+}
+#container{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    border: 1px solid lightskyblue;
+}
+.red{
+    width:50px;
+    height: 50px;
+    background-color: purple;
+    margin: 20px;
+}
+#box{
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    border: 1px solid lightskyblue;
+    background-color: salmon;
+    margin-top: 20px;
+}
